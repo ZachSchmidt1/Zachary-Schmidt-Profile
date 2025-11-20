@@ -7,7 +7,7 @@ layout: home
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/ZachSchmidt1/Zachary-Schmidt-Profile/blob/main/assets/images/25-Zach_SChmidt-0318-WD-12.jpg?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
