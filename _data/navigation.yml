@@ -6,8 +6,8 @@ main:
     url: /assets/docs/ZachSchmidt Resume 11-2-25.pdf
   - title: "Research"
     url: /portfolio/
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
   - title: "Links"
     url: /links/
   - title: "Contact"
