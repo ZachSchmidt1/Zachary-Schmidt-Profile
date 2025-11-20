@@ -10,7 +10,7 @@ header:
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+My name is Zachary Schmidt, and I am a junior Mechatronics student at Northern Illinois University.
 
 I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
 
