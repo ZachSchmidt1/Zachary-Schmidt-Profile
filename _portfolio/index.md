@@ -11,7 +11,8 @@ permalink: /portfolio/index.html
 
 <h2 id="publications">Publications</h2>
 
-<details markdown="1"><summary>BP-01</summary>
+<details markdown="1">
+  <summary>BP-01</summary>
   
 ## Blog Posts
 ### BP-1
@@ -24,7 +25,8 @@ permalink: /portfolio/index.html
 
 </details>
 
-<details markdown="1"><summary>BP-02</summary>
+<details markdown="1">
+  <summary>BP-02</summary>
   
 # This is Zach 
 
@@ -42,7 +44,8 @@ permalink: /portfolio/index.html
 
 </details>
 
-<details markdown="1"><summary>BP-03</summary>
+<details markdown="1">
+  <summary>BP-03</summary>
   
 # This is Zach 
 
@@ -57,7 +60,8 @@ permalink: /portfolio/index.html
 
 </details>
 
-<details markdown="1"><summary>BP-04.5</summary>
+<details markdown="1">
+  <summary>BP-04.5</summary>
 
 # This is Zach 
 
@@ -77,7 +81,8 @@ best utilize, connect to, and control our four-legged robots.
 
 </details>
 
-<details markdown="1"><summary>BP-04</summary>
+<details markdown="1">
+  <summary>BP-04</summary>
 
 # This is Zach 
 
@@ -121,7 +126,8 @@ best utilize, connect to, and control our four-legged robots.
 
 </details>
 
-<details markdown="1"><summary>BP-06</summary>
+<details markdown="1">
+  <summary>BP-06</summary>
 
 # This is Zach 
 
@@ -150,7 +156,8 @@ resources thanks to the MLH and its teachers.
 
 </details>
 
-<details markdown="1"><summary>BP-07</summary>
+<details markdown="1">
+  <summary>BP-07</summary>
   
 # This is Zach 
 ## Blog Post 
