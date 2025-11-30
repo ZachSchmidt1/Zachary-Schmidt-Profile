@@ -174,8 +174,4 @@ resources thanks to the MLH and its teachers.
 * I just learned about Mermaid, and my first thought was about its similarities to rqt_graph in ROS2. I remember first seeing a rqt_graph for a project, and it greatly helped me to understand the basics of both ROS2 and the project. I could see how the flow of information went from one node to another in order to move a knee servo of the quadruped which had a feedback loop to verify the servo moved to the correct angle to move the robot. 
 
 </details>
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:** Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+
