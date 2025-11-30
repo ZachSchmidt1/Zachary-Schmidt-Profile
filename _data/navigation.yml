@@ -10,10 +10,10 @@ main:
 #    url: /teaching/
   - title: "Links"
     url: /links/
-  - title: "Contact"
-    url: /contact/
-  # - title: "Blog"
-  #   url: /blog/
+#  - title: "Contact"
+#    url: /contact/
+#   - title: "Blog"
+#     url: /blog/
 
 # sidebar for portfolio
 portfolio:
