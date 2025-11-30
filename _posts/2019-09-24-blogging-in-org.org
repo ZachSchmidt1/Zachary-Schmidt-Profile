@@ -1,3 +1,5 @@
+#+BEGIN_COMMENT
+
 #+TITLE: Blogging in Org Mode
 #+SUBTITLE: My workflow for blogging in org mode, with jekyll and org-export.
 #+DATE: 2019-09-24
@@ -252,3 +254,5 @@ org is a natural fit.
 
 [fn:1] The double slash is required because markdown interprets the first slash as an
 escape character.
+
+#+END_COMMENT
