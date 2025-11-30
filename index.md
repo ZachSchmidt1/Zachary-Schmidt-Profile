@@ -15,4 +15,6 @@ My name is Zachary Schmidt, and I am a junior Mechatronics student at Northern I
 
 ### Background
 
-I was born in Knakakee, IL and grew up on a small family farm where I learned the importance of hard work, integrity, and responsibility from a young age. I was the Salutatorian for my graduating class at Herscher Highschool where I was involved in many sports and extracirrculars. 
+I was born in Kankakee, IL and grew up on a small family farm where I learned the importance of hard work, integrity, and responsibility from a young age. I was the Salutatorian for my graduating class at Herscher Highschool where I was involved in many sports and extracirrculars. 
+
+I have an an intership during the summer for each year I have been in college. I also have maintenance experience through previous jobs and the farm. 
