@@ -4,8 +4,8 @@ excerpt: ""
 date: 2023-08-07
 categories: 
 - post
-tags: 
----
+tags:
+
 Since the last time I wrote on this site, a lot has changed. A global pandemic has come
 and (mostly) gone, which has given rise to remote work as a viable option for many in
 the tech sector, but also pushed forward an economic chain of events that made it harder
@@ -52,3 +52,4 @@ To the next adventure!
 <!----- Footnotes ----->
 
 [^fn1]: The Federal Reserve has increased interest rates in order to combat inflation. From [this study on the sources of inflation](https://www.bls.gov/opub/mlr/2023/beyond-bls/what-caused-inflation-to-spike-after-2020.htm) by the US Bureau of Labor Statistics: "So, from this research, the authors find that three main components explain the rise in inflation since 2020: volatility of energy prices, backlogs of work orders for goods and service caused by supply chain issues due to COVID-19, and price changes in the auto-related industries."
+---
