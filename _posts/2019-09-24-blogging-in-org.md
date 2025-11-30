@@ -4,8 +4,8 @@ excerpt: "My workflow for blogging in org mode, with jekyll and org-export."
 date: 2019-09-24
 categories: 
 - post
-tags: 
----
+tags:
+
 I recently transitioned from writing my posts directly in markdown to writing them in
 [org mode](https://orgmode.org/), a document authoring system built in GNU Emacs. I learned a lot in the
 process, and also built a new org exporter in the process, [`ox-jekyll-lite`.](https://github.com/peterewills/ox-jekyll-lite)[^fn1]
@@ -253,3 +253,4 @@ writing.[^fn5] Happy blogging, and may the org be with you!
 [^fn3]: You can see an example of adding a link to an image in the org-mode demo video linked above.
 [^fn4]: This is actually a lie; I don't make any money from this site.
 [^fn5]: There's also the entire subject of [literate programming](http://cachestocaches.com/2018/6/org-literate-programming/), in which code is interwoven with documentation, which I think is a really nice paradigm, and for which org is a natural fit.
+---
